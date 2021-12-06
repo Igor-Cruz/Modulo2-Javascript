@@ -13,3 +13,4 @@ fs.readdir('./', function (err, lista) {
   }
 })
 console.log('fim')
+//Chamar de Volta
